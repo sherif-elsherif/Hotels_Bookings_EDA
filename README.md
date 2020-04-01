@@ -1,2 +1,3 @@
-# Hotels_Bookings_EDA
-Hotels Bookings Exploratory Data Analysis
+# Hotels Bookings Exploratory Data Analysis
+
+Here I provide an exploratory data analysis project on Hotel Bookings data.
